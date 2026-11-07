@@ -72,3 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Windows folder settings
+desktop.ini
+Thumbs.db
+
+# Unreal local/editor-generated data
+Saved/
+Intermediate/
+DerivedDataCache/
+.vs/
